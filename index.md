@@ -1,91 +1,97 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Donagh Hatton's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Donagh Hatton
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="donaghhatton@gmail.com">donaghhatton@gmail.com</a>
 </div>
 
+## Technical skills
+Programming, 
+Software Engineering, 
+Building at Scale,
+Algorithms, 
+Data Structures, 
+Optimisation techniques, 
+Machine Learning,
+Artificial Intelligence, 
+Networking, 
+Linux, 
+Windows,
+Relational Databases,
+NoSQL Databases,
+Testing/Mocking,
+AWS
 
-## Currently
+__Proficient with__
+Clojure, Python, Java, JavaScript, C, C++, SQL, Bash, HTML, CSS
 
-Standing on the shoulders of giants
+__Experience with__ 
+C, C#, Haskell, Common Lisp, Scheme, Ruby and others 
 
-### Specialized in
+## Experience
+`2014 - current`
+__Amazon - Senior Software Development Engineer__  
+Technical lead and engineer on the Network Alerts team. Designing, building, deploying and operating large scale distributed stream processing and anomaly detection systems. Integration of statistical and probabilistic techniques for the identification, aggregation and correlation of network impact. Mentoring and training of junior colleagues, interviewing prospective candidates.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2010 - 2014`
+__Maynooth University - Lecturer/Tutor__  
+Position as lecturer/tutor for a variety of undergraduate modules. Developing course content, lecturing, lab supervision, giving tutorials, practical programming assistance, marking/correcting and liaising between academic staff and demonstrators.
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2008 - 2009`
+__Intel - Automation Engineer__  
+Internal application development, working with agile methodologies at all stages of the SDLC.
 
 
 ## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+`2010 - current`
+__Maynooth University - PhD Candidate Computer Science__  
+  Constraint handling for Genetic Algorithms and Differential Evolution
 
 `2012`
-President, *Royal Society*, London, UK
+__Maynooth University - Professional Certificate in Teaching and Learning__  
 
-Associate, *French Academy of Science*, Paris, France
+`2006 - 2010`
+__Maynooth University - B.Sc. Computer Science and Software Engineering__  
+First class honours 1.1
 
+## Public Projects
 
+__Pypeline__  
+*[https://github.com/lifenoodles/pypline]*  
+Python library for configuration driven data pipelines
 
-## Publications
+__ArduinoSumoRobot__  
+*[https://github.com/lifenoodles/robo-sumo]*  
+Control system for Arduino Sumo robots
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__TennisFor10__  
+*[https://github.com/lifenoodles/nes-pong]*  
+Pong clone written in 6502 assembly for the original NES hardware
 
-### Journals
+__Lp-plants__  
+*[http://lifenoodles.ronkmonster.com]*  
+2D L-System based plant generation/visualization using JavaScript
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Additional
 
-`1669`
-Lectiones opticæ.
+Government of Ireland Postgraduate Scholarship 2013 - 2014 & John and Pat Hume scholarship, 2010 - 2013
 
-etc. etc. etc.
+Ran CoderDojo [coderdojo.com](http://coderdojo.com) sessions for the Maynooth branch from 2012-2013
 
-### Patents
+Core member of NUI Maynooth’s Robocup team.
+[eeng.nuim.ie/robocup](http://eeng.nuim.ie/robocup)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Multiple top percentile completions in IEEE programming competitions and participation in many others both as a team and individually.
 
+NDLR Ireland Local Innovation Project Award for the development of an interactive teaching application.
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Several undergraduate awards such as funded internships and project awards between 2006-2010.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2018 -->
 
 
