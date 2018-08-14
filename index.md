@@ -29,7 +29,7 @@ __Proficient with__
 Clojure, Python, Java, JavaScript, C, C++, SQL, Bash, HTML, CSS
 
 __Experience with__ 
-C, C#, Haskell, Common Lisp, Scheme, Ruby and others 
+C#, Haskell, Common Lisp, Scheme, Ruby and others 
 
 ## Experience
 `2014 - current`
@@ -59,7 +59,7 @@ First class honours 1.1
 
 ## Public Projects
 
-__Pypeline__  
+__Pypline__  
 *[https://github.com/lifenoodles/pypline]*  
 Python library for configuration driven data pipelines
 
