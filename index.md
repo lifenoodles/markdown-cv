@@ -3,9 +3,8 @@ layout: cv
 title: Donagh Hatton's CV
 ---
 # Donagh Hatton
-
 <div id="webaddress">
-<a href="donaghhatton@gmail.com">donaghhatton@gmail.com</a>
+<a href="mailto:donaghhatton@gmail.com">donaghhatton@gmail.com</a>
 </div>
 
 ## Technical skills
@@ -34,11 +33,11 @@ C#, Haskell, Common Lisp, Scheme, Ruby and others
 ## Experience
 `2014 - current`
 __Amazon - Senior Software Development Engineer__  
-Technical lead and engineer on the Network Alerts team. Designing, building, deploying and operating large scale distributed stream processing and anomaly detection systems. Integration of statistical and probabilistic techniques for the identification, aggregation and correlation of network impact. Mentoring and training of junior colleagues, interviewing prospective candidates.
+Technical lead and engineer on the Network Alerts team. Designing, building, deploying and operating large scale distributed stream processing and anomaly detection systems. Integration of statistical and probabilistic techniques for the identification, aggregation and correlation of network impact. Mentoring and training of junior colleagues, interviewing candidates.
 
 `2010 - 2014`
 __Maynooth University - Lecturer/Tutor__  
-Position as lecturer/tutor for a variety of undergraduate modules. Developing course content, lecturing, lab supervision, giving tutorials, practical programming assistance, marking/correcting and liaising between academic staff and demonstrators.
+Lecturer/tutor for a variety of undergraduate modules. Developing course content, lecturing, lab supervision, giving tutorials, practical programming assistance, marking/correcting and liaising between academic staff and demonstrators.
 
 `2008 - 2009`
 __Intel - Automation Engineer__  
@@ -59,36 +58,27 @@ First class honours 1.1
 
 ## Public Projects
 
-__Pypline__  
-*[https://github.com/lifenoodles/pypline]*  
+__Pypline__ *\[[https://github.com/lifenoodles/pypline](https://github.com/lifenoodles/pypline)*\]  
 Python library for configuration driven data pipelines
 
-__ArduinoSumoRobot__  
-*[https://github.com/lifenoodles/robo-sumo]*  
+__ArduinoSumoRobot__ \[*[https://github.com/lifenoodles/robo-sumo](https://github.com/lifenoodles/robo-sumo)*\]  
 Control system for Arduino Sumo robots
 
-__TennisFor10__  
-*[https://github.com/lifenoodles/nes-pong]*  
+__TennisFor10__ \[*[https://github.com/lifenoodles/nes-pong](https://github.com/lifenoodles/nes-pong)*\]  
 Pong clone written in 6502 assembly for the original NES hardware
 
-__Lp-plants__  
-*[http://lifenoodles.ronkmonster.com]*  
+__Lp-plants__ \[*[http://lifenoodles.ronkmonster.com](http://lifenoodles.ronkmonster.com)*/]  
 2D L-System based plant generation/visualization using JavaScript
 
 ## Additional
-
-Government of Ireland Postgraduate Scholarship 2013 - 2014 & John and Pat Hume scholarship, 2010 - 2013
-
-Ran CoderDojo [coderdojo.com](http://coderdojo.com) sessions for the Maynooth branch from 2012-2013
-
 Core member of NUI Maynooth’s Robocup team.
-[eeng.nuim.ie/robocup](http://eeng.nuim.ie/robocup)
+\[[eeng.nuim.ie/robocup](http://eeng.nuim.ie/robocup)\]
 
-Multiple top percentile completions in IEEE programming competitions and participation in many others both as a team and individually.
+Multiple top percentile completions in IEEE programming competitions and participation in many others both as a team and individually
 
-NDLR Ireland Local Innovation Project Award for the development of an interactive teaching application.
+Ran CoderDojo \[[coderdojo.com](http://coderdojo.com)\] sessions for the Maynooth branch from 2012-2013
 
-Several undergraduate awards such as funded internships and project awards between 2006-2010.
+NDLR Ireland Local Innovation Project Award for the development of an interactive teaching application
 
 <!-- ### Footer
 
