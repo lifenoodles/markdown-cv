@@ -14,7 +14,7 @@ Building at Scale,
 Algorithms,
 Data Structures,
 Optimisation techniques,
-Machine Learning,
+Supervised/Unsupervised Machine Learning,
 Artificial Intelligence,
 Networking,
 Linux,
@@ -33,7 +33,7 @@ C#, Haskell, Common Lisp, Scheme, Ruby and others
 ## Experience
 `2014 - current`
 __Amazon - Senior Software Development Engineer__
-Technical lead and engineer on the Network Alerts team. Designing, building, deploying and operating large scale distributed stream processing and anomaly detection systems. Integration of statistical and probabilistic techniques for the identification, aggregation and correlation of network impact. Mentoring and training of junior colleagues, interviewing candidates.
+Technical lead and engineer on the Network Events Clustering team. Designing, building, deploying and operating large scale distributed stream processing, anomaly detection and network assurance systems. Integration of statistical and probabilistic techniques for the aggregation, correlation and classification of network impact. Mentoring and training of junior colleagues, interviewing candidates.
 
 `2010 - 2014`
 __Maynooth University - Lecturer/Tutor__
@@ -45,7 +45,7 @@ Internal application development, working with agile methodologies at all stages
 
 
 ## Education
-`2010 - current`
+`2010 - 2014`
 __Maynooth University - PhD Candidate Computer Science__
   Constraint handling for Genetic Algorithms and Differential Evolution
 
