@@ -10,7 +10,6 @@ title: Donagh Hatton's CV
 ## Technical skills
 Programming,
 Software Engineering,
-Building at Scale,
 Algorithms,
 Data Structures,
 Optimisation techniques,
@@ -22,18 +21,26 @@ Windows,
 Relational Databases,
 NoSQL Databases,
 Testing/Mocking,
-AWS
+AWS,
+API Design,
+System Design,
+Software Architecture,
+Distributed Systems
 
 __Proficient with__
-Clojure, Python, Java, JavaScript, C, C++, SQL, Bash, HTML, CSS
+Clojure, Python, Java, JavaScript, Typescript, C, C++, SQL, Bash, HTML, CSS, Modelling tools (UML, OpenAPI)
 
 __Experience with__
 C#, Haskell, Common Lisp, Scheme, Ruby and others
 
 ## Experience
-`2014 - current`
+`2022 - current`
+__Amazon - Principal Software Engineer__
+Key individual contributor to the Network Availability Engineering technical leadership team. Collaboration with leadership to define organisation vision and technical strategy. Lead cross team collaboration with local technical leads to ensure smooth delivery of critical goals for the organisation and consistency of deliveries with org technical strategy. Strong focus on modelling/API design/software architecture at a platform level. Hands on implementation and delivery for foundational platform capabilities or mission critical performance requirements. Mentor and train engineering talent and participation in technical leadership recruitment. Constant operational bar raising. Ensuring availability and reliability for millions of customers using one of the largest networks in the world.
+
+`2014 - 2022`
 __Amazon - Senior Software Development Engineer__
-Technical lead and engineer on the Network Events Clustering team. Designing, building, deploying and operating large scale distributed stream processing, anomaly detection and network assurance systems. Integration of statistical and probabilistic techniques for the aggregation, correlation and classification of network impact. Mentoring and training of junior colleagues, interviewing candidates.
+Technical lead and engineer in the Network Availability Engineering organisation. Designing, building, deploying and operating large scale distributed stream processing, anomaly detection and network assurance systems. Integration of statistical and probabilistic techniques for the aggregation, correlation and classification of network impact. Mentoring and training of junior colleagues, interviewing candidates. Built out multiple successful engineering teams in partnership with org leadership.
 
 `2010 - 2014`
 __Maynooth University - Lecturer/Tutor__
@@ -58,12 +65,6 @@ First class honours 1.1
 
 ## Select Public Projects
 
-__NaSearch__ *\[[https://github.com/lifenoodles/nasearch](https://github.com/lifenoodles/nasearch)*\]
-Indexed search engine for shownotes for the No Agenda Show (current affairs podcast). Live version based on a fork currently available at [https://search.nashownotes.com](https://search.nashownotes.com)
-
-__Pypline__ *\[[https://github.com/lifenoodles/pypline](https://github.com/lifenoodles/pypline)*\]
-Python library for configuration driven data pipelines
-
 __ArduinoSumoRobot__ \[*[https://github.com/lifenoodles/robo-sumo](https://github.com/lifenoodles/robo-sumo)*\]
 Control system for Arduino Sumo robots
 
@@ -85,4 +86,4 @@ NDLR Ireland Local Innovation Project Award for the development of an interactiv
 
 <!-- ### Footer
 
-Last updated: August 2018 -->
+Last updated: April 2022 -->
