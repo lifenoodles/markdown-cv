@@ -64,11 +64,11 @@ __Maynooth University - B.Sc. Computer Science and Software Engineering__
 First class honours 1.1
 
 ## Patents
-`US Patent 10764214 B1`
 __Error Source Identification In Cut-through Networks__
+US Patent 10764214 B1
 
-`US Patent 10616314 B1`
 __Dynamic Source Routing For Data Transfer__
+US Patent 10616314 B1
 
 ## Select Public Projects
 
