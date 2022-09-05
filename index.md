@@ -63,6 +63,13 @@ __Maynooth University - Professional Certificate in Teaching and Learning__
 __Maynooth University - B.Sc. Computer Science and Software Engineering__
 First class honours 1.1
 
+## Patents
+`US Patent 10764214 B1`
+__Error Source Identification In Cut-through Networks__
+
+`US Patent 10616314 B1`
+__Dynamic Source Routing For Data Transfer__
+
 ## Select Public Projects
 
 __ArduinoSumoRobot__ \[*[https://github.com/lifenoodles/robo-sumo](https://github.com/lifenoodles/robo-sumo)*\]
@@ -74,16 +81,7 @@ Pong clone written in 6502 assembly for the original NES hardware
 __Lp-plants__ \[*[http://lifenoodles.ronkmonster.com](http://lifenoodles.ronkmonster.com)*/]
 2D L-System based plant generation/visualization using JavaScript
 
-## Additional
-Core member of NUI Maynooth’s Robocup team.
-\[[eeng.nuim.ie/robocup](http://eeng.nuim.ie/robocup)\]
-
-Multiple top percentile completions in IEEE programming competitions and participation in many others both as a team and individually
-
-Ran CoderDojo \[[coderdojo.com](http://coderdojo.com)\] sessions for the Maynooth branch from 2012-2013
-
-NDLR Ireland Local Innovation Project Award for the development of an interactive teaching application
 
 <!-- ### Footer
 
-Last updated: April 2022 -->
+Last updated: September 2022 -->
