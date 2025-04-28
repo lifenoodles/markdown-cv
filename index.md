@@ -9,6 +9,14 @@ title: Donagh Hatton's CV
 </div>
 
 
+## Summary
+Principal Software Engineer at Amazon with a focus on large-scale distributed systems, network infrastructure, and platform resilience. I design and deliver highly available, fault tolerant services that support critical AWS and EC2 operations, including systems for network modeling, incident management, and intelligent workload placement.
+
+I specialize in system design, performance engineering, and pragmatic application of statistical and machine learning techniques to domain problems. Proficient in Clojure, Java, Python, and C/C++, with experience in API design, observability, SRE, IaC and AWS native architecture. I lead architecture definition, contribute to long term org wide technical strategy, and drive high impact cross functional initiatives.
+
+My approach combines hands on development with technical leadership, mentoring, and a commitment to raising engineering standards through design rigor and operational excellence. I hold multiple patents related to network telemetry and routing as well as applications of unsupervised learning methods to network incident management. I have a particular interest in open/extensible specifications for data transfer, the fractal properties of good software design, and the epochal time model.
+
+
 ## Technical skills
 Software Engineering,
 Programming,
