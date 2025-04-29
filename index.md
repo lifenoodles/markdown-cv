@@ -10,7 +10,7 @@ title: Donagh Hatton's CV
 
 
 ## Summary
-Principal Software Engineer at Amazon with a focus on large-scale distributed systems, network infrastructure, and platform resilience. I design and deliver highly available, fault tolerant services that support critical AWS and EC2 operations, including systems for network modeling, incident management, and intelligent workload placement.
+Principal Software Engineer at Amazon with a focus on large-scale distributed systems. I design and build highly available, fault tolerant services that support critical AWS and EC2 operations, including systems for network modeling, incident management, and intelligent workload placement.
 
 I specialize in system design, performance engineering, and pragmatic application of statistical and machine learning techniques to domain problems. Proficient in Clojure, Java, Python, and C/C++, with experience in API design, observability, SRE, IaC and AWS native architecture. I lead architecture definition, contribute to long term org wide technical strategy, and drive high impact cross functional initiatives.
 
@@ -64,7 +64,7 @@ Partnered with organizational leadership to shape the long term technical strate
 
 `2014 - 2022`
 __Amazon - Senior Software Development Engineer__
-Technical lead in the Network Availability Engineering organization, responsible for designing, building, and operating large-scale distributed systems for stream processing, anomaly detection, and network assurance. Developed and deployed systems leveraging statistical and probabilistic models to aggregate, correlate, and classify network events, enabling rapid identification of critical issues. Played a key role in building and scaling multiple successful engineering teams in collaboration with organizational leadership. Mentored and trained junior engineers and contributed to hiring efforts through technical interviews and candidate evaluation.
+Technical lead in the Network Availability Engineering organization, responsible for designing, building, and operating large-scale distributed systems for stream processing, anomaly detection, and network assurance. Developed and deployed systems leveraging statistical and probabilistic models to aggregate, correlate, and classify network events, enabling rapid identification of critical issues. Played a key role in building and scaling multiple successful engineering teams in collaboration with senior leadership. Mentored and trained junior engineers and contributed to hiring efforts through technical interviews and candidate evaluation.
 
 `2010 - 2014`
 __Maynooth University - Lecturer/Tutor__
