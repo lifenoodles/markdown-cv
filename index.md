@@ -86,7 +86,7 @@ __Maynooth University - B.Sc. Computer Science and Software Engineering__
 First class honours 1.1
 
 ## Patents
-__Tracking cluster identity over time__
+__Tracking Cluster Identity Over Time__
 US Patent 11539595 B1
 
 __Error Source Identification In Cut-through Networks__
