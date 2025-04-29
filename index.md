@@ -87,13 +87,13 @@ First class honours 1.1
 
 ## Patents
 __Tracking Cluster Identity Over Time__
-US Patent 11539595 B1
+US Patent 11539595
 
 __Error Source Identification In Cut-through Networks__
-US Patent 10764214 B1
+US Patent 10764214
 
 __Dynamic Source Routing For Data Transfer__
-US Patent 10616314 B1
+US Patent 10616314
 
 <!-- ### Footer
 
